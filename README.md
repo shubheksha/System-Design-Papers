@@ -6,3 +6,8 @@ A list of papers on system design.
 - The UNIX Time-sharing System - A Retrospective [[paper](https://www.bell-labs.com/usr/dmr/www/retro.pdf)]
 - Program Design in the Unix environment [[paper](http://harmful.cat-v.org/cat-v/unix_prog_design.pdf)]
 - Unix implementation [[paper](https://users.soe.ucsc.edu/~sbrandt/221/Papers/History/thompson-bstj78.pdf)]
+
+# General
+- A Design Methodology for Reliable Software Systems [[paper](https://valbonne-consulting.com/papers/classic/Liskov_72-Design_Methodology_for_Reliable_Software_Systems.pdf)]
+- On the Criteria to be Used in Decomposing Systems into Modules [[paper](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2979&context=compsci)]
+- End-to-end Arguments in System Design [[paper](courses.cs.vt.edu/cs5204/fall11-butt/lectures/End2EndArgs.pdf)]
