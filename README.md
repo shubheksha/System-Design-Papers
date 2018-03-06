@@ -13,4 +13,4 @@ A list of papers on system design.
 - End-to-end Arguments in System Design [[paper](courses.cs.vt.edu/cs5204/fall11-butt/lectures/End2EndArgs.pdf)]
 - Hints for Computer System Design [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)]
 - Out of the Tarpit [[paper](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)]
-- The Emperor’s Old Clothes [[paper](https://zoo.cs.yale.edu/classes/cs422/2010/bib/hoare81emperor.pdf]- The Emperor’s Old Clothes)]
+- The Emperor’s Old Clothes [[paper](https://zoo.cs.yale.edu/classes/cs422/2010/bib/hoare81emperor.pdf)]
