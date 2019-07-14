@@ -8,7 +8,7 @@ A list of papers on system design.
 - Unix implementation [[paper](https://users.soe.ucsc.edu/~sbrandt/221/Papers/History/thompson-bstj78.pdf)]
 
 # General
-- A Design Methodology for Reliable Software Systems [[paper](https://valbonne-consulting.com/papers/classic/Liskov_72-Design_Methodology_for_Reliable_Software_Systems.pdf)]
+- A Design Methodology for Reliable Software Systems [[paper](https://pdfs.semanticscholar.org/d420/c8b473a23b80241fd7c90757becb59b1136c.pdf)]
 - On the Criteria to be Used in Decomposing Systems into Modules [[paper](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2979&context=compsci)]
 - End-to-end Arguments in System Design [[paper](courses.cs.vt.edu/cs5204/fall11-butt/lectures/End2EndArgs.pdf)]
 - Hints for Computer System Design [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)]
