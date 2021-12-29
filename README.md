@@ -27,7 +27,7 @@ A list of papers to read
 | [Out of the Tarpit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf) | [Acolyer](https://blog.acolyer.org/2015/03/20/out-of-the-tar-pit/) |
 | [The Emperor’s Old Clothes](https://zoo.cs.yale.edu/classes/cs422/2010/bib/hoare81emperor.pdf) | [Acolyer](https://blog.acolyer.org/2016/09/07/the-emperors-old-clothes/) |
 | [Robustness in Complex Systems](https://www.gribble.org/papers/robust.pdf) | - |
-| [The Rise of Worse is Better](https://dreamsongs.com/RiseOfWorseIsBetter.html) | [Acolyer](https://blog.acolyer.org/2016/09/15/the-rise-of-worse-is-better/)
+| [The Rise of Worse is Better](https://dreamsongs.com/WIB.html) | [Acolyer](https://blog.acolyer.org/2016/09/15/the-rise-of-worse-is-better/)
 
 # Virtualization
 | Paper | Blogs |
