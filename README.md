@@ -9,7 +9,7 @@ A list of papers on system design.
 
 # General
 - A Design Methodology for Reliable Software Systems [[paper](https://pdfs.semanticscholar.org/d420/c8b473a23b80241fd7c90757becb59b1136c.pdf)] [[Acolyer](https://blog.acolyer.org/2016/10/21/a-design-methodology-for-reliable-software-systems/)]
-- On the Criteria to be Used in Decomposing Systems into Modules [[paper](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf] [[Acolyer](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)]
+- On the Criteria to be Used in Decomposing Systems into Modules [[paper](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)] [[Acolyer](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)]
 - End-to-end Arguments in System Design [[paper](https://courses.cs.vt.edu/cs5204/fall11-butt/lectures/End2EndArgs.pdf)] [[Acolyer](https://blog.acolyer.org/2014/11/14/end-to-end-arguments-in-system-design/)]
 - Hints for Computer System Design [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)] [[Acolyer](https://blog.acolyer.org/2016/09/16/hints-for-computer-system-design/)]
 - Out of the Tarpit [[paper](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)] [[Acolyer](https://blog.acolyer.org/2015/03/20/out-of-the-tar-pit/)]
